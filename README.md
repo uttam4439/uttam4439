@@ -42,12 +42,20 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uttam4439&show_icons=true&theme=radical" alt="Uk4439 GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam4439&layout=compact&theme=radical" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uttam4439&show_icons=true&theme=radical&count_private=true&hide=issues&hide_title=false" 
+       alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam4439&layout=compact&theme=radical&langs_count=6&hide_title=false" 
+       alt="Top Languages" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttam4439&theme=radical&hide_border=true" 
+       alt="GitHub Streak" width="60%"/>
+</p>
+
 
 ---
 
