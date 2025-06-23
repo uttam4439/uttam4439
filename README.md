@@ -49,8 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam4439&layout=compact&theme=radical&langs_count=6" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uttam4439&repo=Anumodya&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uttam4439&theme=radical" />
 </p>
+
 
 
 
