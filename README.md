@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE student at [Galgotias University](https://www.galgotiasuniversity.edu.in), Greater Noida (2022–2026)  
-- 🌟 CGPA: 8.42  
+- 🌟 CGPA: 8.49 
 - 🧠 Currently learning: **SpringBoot**, **Gradle**, **Hibernate**, **DSA in Java**, and **SQL,MySQL,POSTgreSQl**  
 - 🛠️ Building meaningful apps that help people, especially in mental wellness and accessibility  
 - ✍️ Writing tech blogs and sharing learnings  
@@ -49,8 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam4439&layout=compact&theme=radical&langs_count=6" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uttam4439/uttam4439/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uttam4439&repo=Anumodya&theme=radical" />
 </p>
+
 
 
 
