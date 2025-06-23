@@ -49,12 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam4439&layout=compact&theme=radical&langs_count=6" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=uttam4439&theme=radical&hide_border=true" width="60%"/>
-</p>
-
-
-
 
 ---
 
