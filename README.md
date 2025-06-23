@@ -48,13 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uttam4439&show_icons=true&theme=radical&count_private=true&hide=issues" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam4439&layout=compact&theme=radical&langs_count=6" width="48%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uttam4439&theme=radical" />
-</p>
-
-
-
-
 
 ---
 
