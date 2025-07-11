@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech CSE student at [Galgotias University](https://www.galgotiasuniversity.edu.in), Greater Noida (2022–2026)  
 - 🌟 CGPA: 8.49 
-- 🧠 Currently learning: **SpringBoot**, **Gradle**, **Hibernate**, **DSA in Java**, and **SQL,MySQL,POSTgreSQl**  
+- 🧠 Currently learning: **SpringBoot**, **Maven**, **Hibernate**, **DSA in Java**, and **SQL,MySQL,POSTgreSQl**  
 - 🛠️ Building meaningful apps that help people, especially in mental wellness and accessibility  
 - ✍️ Writing tech blogs and sharing learnings  
 - 💼 iOS Developer Intern | Managing projects with **Jira**  
