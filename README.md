@@ -24,8 +24,6 @@
 - 💼 **iOS Developer Intern**, working with Agile workflows using **Jira**  
 - 🛠️ Passionate about building **impact-driven applications**  
   focused on **mental wellness, accessibility, and social good**  
-- ✍️ I enjoy writing technical blogs and sharing my learning journey  
-
 ---
 
 ## 🚧 Current Projects
@@ -58,10 +56,7 @@
 ## 🌱 What I'm Exploring
 
 - 🤖 AI-first applications solving real-world problems  
-- 📱 Cross-platform development with **React Native**  
-- 🌍 Open Source contributions  
-  *(GSoC Aspirant – MIT App Inventor)*  
-- 🧩 System Design and Advanced Data Structures  
+- 🧩 Agentic AI | MCP Servers | RAG
 
 ---
 
@@ -83,5 +78,5 @@
 </p>
 
 <p align="center">
-Made with ❤️ by Uttam (Uk4439)
+Made with ❤️ by Uttam (uttam4439)
 </p>
