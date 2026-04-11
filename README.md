@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uttam4439/uttam4439/main/assets/banner.png" alt="Uttam Kumar Banner"/>
+  <img src="assets/banner.png" alt="Uttam Kumar Banner" width="100%"/>
 </p>
 
-<h1 align="center">Uttam Kumar</h1>
+<h1 align="center">UTTAM KUMAR</h1>
 
 <p align="center">
-I build products that solve real human problems
+<b>I BUILD APPS THAT CREATE IMPACT</b>
 </p>
 
 <p align="center">
-iOS Developer • Backend Builder • AI Explorer
+Aspiring Software Developer passionate about Mobile, Backend, and AI  
+Always learning. Always building.
 </p>
 
 <p align="center">
@@ -23,86 +24,65 @@ iOS Developer • Backend Builder • AI Explorer
 
 ---
 
-## ⚡ About Me
+## 🧠 Core Strengths
 
-I build software with a clear purpose: **real-world impact**.
-
-- B.Tech CSE — Galgotias University (2022–2026)  
-- CGPA: **8.49**  
-- iOS Developer Intern (Agile + Jira)  
-- Learning Backend + AI Systems  
-
-I focus on execution, not just ideas.
+| Problem Solving | Clean Code | Impact Focus | Growth Mindset |
+|----------------|-----------|-------------|---------------|
+| I break complex problems into simple solutions | I write scalable backend systems | I build for real-world impact | I improve every single day |
 
 ---
 
-## 🚀 Projects That Matter
+## 🚀 Featured Projects
 
-### 🧘 Anumodya  
-Mental wellness iOS app  
+### 🧘 Anumodya — Mental Wellness App  
+- Inspired by Yoga, Meditation, Rituals  
+- Helps users build consistency and reduce stress  
 
-- Yoga, meditation, daily rituals  
-- Focus on consistency and stress reduction  
-
-**Impact:** Helps users improve mental clarity  
+**Stack:** Swift • Supabase  
 
 ---
 
-### 🧠 RecallMate  
-Support system for Alzheimer’s patients  
+### 🧠 RecallMate — Alzheimer Support App  
+- Helps recognize loved ones  
+- Supports daily memory tasks  
 
-- Recognize loved ones  
-- Daily memory assistance  
-
-**Impact:** Improves independence and confidence  
+**Stack:** Swift • Core ML • PostgreSQL  
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages**  
-Java • Swift • SQL  
-
-**Backend**  
-Spring Boot • Hibernate • Maven  
-
-**Database**  
-MySQL • PostgreSQL  
-
-**Tools**  
-Postman • Supabase • Tomcat  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,swift,spring,hibernate,mysql,postgres,maven,postman"/>
+</p>
 
 ---
 
 ## 📈 Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam4439&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam4439&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Focus
+## 🧠 What I'm Learning
 
-I build for:
-
-- Mental Wellness  
-- Accessibility  
-- Real Impact  
-
----
-
-## 🧲 Why Me
-
-- I think in terms of problems, not features  
-- I build with users in mind  
-- I stay consistent  
+- AI-powered applications  
+- Backend architecture  
+- System design  
+- Advanced SQL  
 
 ---
 
-## 🤝 Let's Connect
+## 💬 Philosophy
 
-If you're building something meaningful, reach out.
+I don’t build random projects.  
+I build solutions that matter.
+
+---
+
+## 🤝 Contact
 
 📩 rajuttam4439@gmail.com  
 🔗 linkedin.com/in/uttam-kumar-y1301  
@@ -110,5 +90,5 @@ If you're building something meaningful, reach out.
 ---
 
 <p align="center">
-Not here to try. Here to build.
+Consistent. Focused. Building.
 </p>
