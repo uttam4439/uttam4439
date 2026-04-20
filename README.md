@@ -46,7 +46,7 @@ Always learning. Always building.
 - Helps recognize loved ones  
 - Supports daily memory tasks  
 
-**Stack:** Swift • Core ML • PostgreSQL  
+**Stack:** Java • Maven • Hibernate • Swift • Core ML • PostgreSQL  • MySQL •  Supabase
 
 ---
 
@@ -79,13 +79,6 @@ Always learning. Always building.
 
 I don’t build random projects.  
 I build solutions that matter.
-
----
-
-## 🤝 Contact
-
-📩 rajuttam4439@gmail.com  
-🔗 linkedin.com/in/uttam-kumar-y1301  
 
 ---
 
