@@ -110,7 +110,7 @@ Focused on building scalable applications, clean architectures, and impactful so
 ## 📈 Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam4439&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam4439&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
